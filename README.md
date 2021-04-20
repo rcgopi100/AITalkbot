@@ -1,5 +1,5 @@
 # AITalkbot
-Articial Intelligence Talkbot on Neural Network NLP
+Articial Intelligence Talkbot on Neural Network Natural Language Processing
 
 Steps to follow:
 1. Download all files
